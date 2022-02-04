@@ -1,4 +1,4 @@
-package input_history
+package go_input_history
 
 import (
 	"sync"
