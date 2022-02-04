@@ -1,4 +1,4 @@
-package src
+package input_history
 
 import (
 	"sync"
