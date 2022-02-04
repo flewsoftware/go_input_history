@@ -1,3 +1,3 @@
-module github.com/flew-software/go-input-history
+module github.com/flewsoftware/go-input-history
 
 go 1.17
